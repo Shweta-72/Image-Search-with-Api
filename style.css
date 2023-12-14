@@ -1,0 +1,21 @@
+/* another way to apply google font style */
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Kalnia', serif;   /* 2nd way to apply font style */
+    box-sizing: border-box;
+}
+
+/* 1st way
+    body {
+    font-family: 'Kalnia', serif;
+} */
+body {
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}
